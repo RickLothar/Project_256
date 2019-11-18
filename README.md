@@ -11,3 +11,8 @@ https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statis
 
 ## Goal of this project
 By analyzing the data of education statistics and health nutrition and population statistics, find if there are any correlation factores between these two datasets and summrize the finding.
+
+## Additional Packages needed for running the Jupyter Notebook
+0. Normal ML packages like numpy, scikit-learn, pandas and matplotlib etc.
+1. wbdata
+2. seaborn
