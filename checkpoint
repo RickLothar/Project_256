@@ -1,0 +1,5 @@
+model_checkpoint_path: "rnn_CAN"
+all_model_checkpoint_paths: "rnn_JPN"
+all_model_checkpoint_paths: "rnn_USA"
+all_model_checkpoint_paths: "rnn_GBR"
+all_model_checkpoint_paths: "rnn_CAN"
